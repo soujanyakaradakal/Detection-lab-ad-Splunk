@@ -75,3 +75,14 @@ Setting this up surfaced several real-world networking and Windows administratio
 
 ---
 *This lab was built entirely in a personal home environment using free/evaluation software (Windows Server 2022 Evaluation, Splunk Free, Kali Linux, VirtualBox) for educational purposes.*
+
+
+## Screenshots
+
+![Splunk Detection](screenshots/splunk-detection-4625.jpg)
+
+![Active Directory Users](screenshots/active-directory-users.jpg)
+
+![Kali Attack Command](screenshots/kali-attack-command.jpg)
+
+![Detection Query](screenshots/detection-query-results.jpg)
