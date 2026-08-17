@@ -79,10 +79,10 @@ Setting this up surfaced several real-world networking and Windows administratio
 
 ## Screenshots
 
-![Splunk Detection](screenshots/splunk-detection-4625.jpg)
+![Splunk Detection](screenshots/splunk-detection-4625.jpg.jpeg)
 
-![Active Directory Users](screenshots/active-directory-users.jpg)
+![Active Directory Users](screenshots/active-directory-users.jpg.jpeg)
 
-![Kali Attack Command](screenshots/kali-attack-command.jpg)
+![Kali Attack Command](screenshots/kali-attack-command.jpg.jpeg)
 
-![Detection Query](screenshots/detection-query-results.jpg)
+![Detection Query](screenshots/detection-query-results.jpg.jpeg)
